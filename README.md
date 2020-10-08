@@ -18,7 +18,7 @@ So this Premiere Pro extension simply allows you to import a .csv file, and will
 - a sequence must be selected before running the extension (so the script knows where to import)
 - the extension adds the markers at the sequence level (not directly onto a video layer). This is useful if you have multiple videos. However, if cut a seciton of the video, then then the markers will be misaligned. So once you have your video imported to the sequence, it is smart to nest the markered sequence into another sequence (so the markers are on a layer instead of the sequence). (welcome suggestions on how to improve this workflow)
 - the .csv format the extension reads is static and specific to the .csv structure the twitch highlighter provides as of Oct 8, 2020. If the structure changes, we will update the extension. Or consider an interface to select columns. 
-- the extension is not currently in the Adobe Exchange. If you have any tips on this process, please email me at mcgrealife@gmail.com (to avoid the manual install)
+- the extension is not currently in the Adobe Exchange. If you have any tips on [this process](https://helpx.adobe.com/exchange/help/getting-started-developer.html), please email me at mcgrealife@gmail.com (to avoid the manual install)
 
 ### Install instructions
 - [Video version here](https://youtu.be/EwPRfyijSww)
