@@ -34,3 +34,10 @@ Adobe Premiere Pro Extension to import twitch "highlight markers" .csv file as m
 - the extension adds the markers at the sequence level (not directly onto a video layer). This is useful if you have multiple videos. However, if cut a seciton of the video, then then the markers will be misaligned. So once you have your video imported to the sequence, it is smart to nest the markered sequence into another sequence (so the markers are on a layer instead of the sequence). (welcome suggestions on how to improve this workflow)
 - the .csv format the extension reads is static and specific to the .csv structure the twitch highlighter provides as of Oct 8, 2020. If the structure changes, we will update the extension. Or consider an interface to select columns. 
 - the extension is not currently in the Adobe Exchange. If you have any tips on [this process](https://helpx.adobe.com/exchange/help/getting-started-developer.html), please email me at mcgrealife@gmail.com (to avoid the manual install)
+
+### Distribution Ideas
+- message fiverr editors with gigs related to "twitch highlight clips"
+- twitch discord
+- reply to reddit threads
+- post reddit message
+- upload to the adobe exchange
